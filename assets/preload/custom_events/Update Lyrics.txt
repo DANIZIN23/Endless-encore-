@@ -1,0 +1,3 @@
+Value 1 : The lyrics
+Value 2 [OPTIONAL] : Image above lyrics
+Leave both values empty to remove lyrics from screen ya bitch
